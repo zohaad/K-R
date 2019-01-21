@@ -3,5 +3,5 @@
 /* Hello world */
 main()
 {
-	printf("Hi, Boob\kie! \n");
+	printf("yeet\n");
 }
